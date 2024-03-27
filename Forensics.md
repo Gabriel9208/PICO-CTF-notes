@@ -137,7 +137,7 @@ print the sequences of printable characters in files
 
 We can observe that the license field is not normal.
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled.png)
+![Untitled](license.png)
 
 The term "JPEG license" typically refers to the licensing terms associated with software libraries or tools that encode or decode JPEG images.
 
