@@ -137,7 +137,7 @@ print the sequences of printable characters in files
 
 We can observe that the license field is not normal.
 
-![Untitled](license.png)
+![Untitled](forensicsPIC/license.png)
 
 The term "JPEG license" typically refers to the licensing terms associated with software libraries or tools that encode or decode JPEG images.
 
@@ -252,7 +252,7 @@ b4,abgr,msb,xy      .. text: "gOC_$_@o"
 
 After the recovery, throw the png file into paint and fill in the background( can try this method when encountering single-color image)
 
-![Untitled](apm.png)
+![Untitled](forensicsPIC/apm.png)
 
 ## Steghide
 
@@ -314,7 +314,7 @@ No suspicious keyword or IOC found.
 
 ### wireshark ( file → export objects )
 
-![Untitled](TFTP.png)
+![Untitled](forensicsPIC/TFTP.png)
 
 ## **Wireshark twoo twooo two twoo... (tshark, MIME, Kerberos)**
 
@@ -338,15 +338,15 @@ picoCTF{dns_3xf1l_ftw_deadbeef}
 
 -T, -e: (in the upper case, it means ”the item have ‘dns.qry.name’ field which is not empty)
 
-![Untitled](paramT.png)
+![Untitled](forensicsPIC/paramT.png)
 
 extract in wireshark:
 
-![Untitled](extract.png)
+![Untitled](forensicsPIC/extract.png)
 
 -Y (filter):
 
-![Untitled](paramY.png)
+![Untitled](forensicsPIC/paramY.png)
 
 ## **shark on wire 1**
 
@@ -355,9 +355,9 @@ extract in wireshark:
 
 </aside>
 
-![Untitled](SOW1.png)
+![Untitled](forensicsPIC/SOW1.png)
 
-![Untitled](SOWResult.png)
+![Untitled](forensicsPIC/SOWResult.png)
 
 also I use:
 
@@ -369,7 +369,7 @@ picoCTF{StaT31355_636f6e6e}
 
 ## **PcapPoisoning ( wireshark filter )**
 
-![Untitled](PP.png)
+![Untitled](forensicsPIC/PP.png)
 
 # files
 
