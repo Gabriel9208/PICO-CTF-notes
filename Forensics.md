@@ -252,7 +252,7 @@ b4,abgr,msb,xy      .. text: "gOC_$_@o"
 
 After the recovery, throw the png file into paint and fill in the background( can try this method when encountering single-color image)
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%201.png)
+![Untitled](apm.png)
 
 ## Steghide
 
@@ -314,7 +314,7 @@ No suspicious keyword or IOC found.
 
 ### wireshark ( file → export objects )
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%202.png)
+![Untitled](TFTP.png)
 
 ## **Wireshark twoo twooo two twoo... (tshark, MIME, Kerberos)**
 
@@ -338,15 +338,15 @@ picoCTF{dns_3xf1l_ftw_deadbeef}
 
 -T, -e: (in the upper case, it means ”the item have ‘dns.qry.name’ field which is not empty)
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%203.png)
+![Untitled](paramT.png)
 
 extract in wireshark:
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%204.png)
+![Untitled](extract.png)
 
 -Y (filter):
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%205.png)
+![Untitled](paramY.png)
 
 ## **shark on wire 1**
 
@@ -355,9 +355,9 @@ extract in wireshark:
 
 </aside>
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%206.png)
+![Untitled](SOW1.png)
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%207.png)
+![Untitled](SOWResult.png)
 
 also I use:
 
@@ -369,7 +369,7 @@ picoCTF{StaT31355_636f6e6e}
 
 ## **PcapPoisoning ( wireshark filter )**
 
-![Untitled](Forensics%2019e3575684724c35aa1e01f186528f2a/Untitled%208.png)
+![Untitled](PP.png)
 
 # files
 
