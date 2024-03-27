@@ -60,7 +60,7 @@ Sudoers entry:
 
 </aside>
 
-![Untitled](General%20Skills%2077e92b7ab9324882908a9382e730e433/Untitled.png)
+![Untitled](genPIC/vim.png)
 
 ```bash
 picoplayer@challenge:~$ sudo vi
